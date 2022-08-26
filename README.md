@@ -1,3 +1,2 @@
 # first-repo
-Web apps first repo
-Praneeth Vallabhaneni M
+## just a basic repo to play around with
